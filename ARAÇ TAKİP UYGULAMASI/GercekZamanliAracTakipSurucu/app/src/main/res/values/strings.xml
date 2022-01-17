@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GercekZamanliAracTakip</string>
+    <string name="register_text">Hesabınızı oluşturmaya başlayalım...</string>
+    <string name="first_name">İsminiz</string>
+    <string name="last_name">Soy İsminiz</string>
+    <string name="phone_number">Telefon Numaranız</string>
+    <string name="continue_text">Devam Et</string>
+    <string name="title_activity_driver_home">DriverHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="menu_home">Ana Menü</string>
+    <string name="menu_sign_out">Çıkış Yap</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="permission_require">Location permission require</string>
+</resources>
